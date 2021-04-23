@@ -1,0 +1,9 @@
+{
+	"name": "anmaradfweudemo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7089fd0-d56f-4300-b8c5-495c8a8a5f6f",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}

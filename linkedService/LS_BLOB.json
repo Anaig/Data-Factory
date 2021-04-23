@@ -1,0 +1,11 @@
+{
+	"name": "LS_BLOB",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://anmarsaweudemo.blob.core.windows.net/"
+		}
+	}
+}
